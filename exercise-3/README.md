@@ -23,7 +23,7 @@
 
 
 <br>
-  
+
 ## 本练习知识点
 - The box model comprises a set of properties used to create space around and between HTML elements.
 - The height and width of a content area can be set in pixels or percentage.
